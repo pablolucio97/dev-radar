@@ -22,6 +22,7 @@ export default function App() {
     <SearchContext>
       <div className='main-container'>
         <h1> <GiRadarDish size={32}/>Dev Radar</h1>
+        <h3>Search for devs and return your data.</h3>
           <div className="search-container">
           <SearchInput placehodler='test'/>
           <SearchButton/>
