@@ -4,9 +4,15 @@
 ### Lugares que eu quero conhecer é um sistema que permite o CRUD de lugares para se conhecer ao redor do mundo. 
 
 <p align="center">
-  <img alt="APM" src="https://i.ibb.co/PF8sFK2/frontend-challenge.png"> 
+  <img alt="APM" src="https://img.shields.io/apm/l/vim-mode"> <img alt="PyPI - Status" src="https://img.shields.io/pypi/status/Django">
 </p>
 
+<p align="center">
+  <img alt="APM" src="https://i.ibb.co/TgDvCtM/imagem-2020-12-23-215903.png"> 
+</p>
+
+
+Você pode utilizar a aplicação[ clicando aqui.](https://5fe3e5b2d3fff94980fec1a4--devradar97.netlify.app/)
 
 ## :rocket: Tecnologias utilizadas:
 
@@ -26,5 +32,4 @@
 ### 3) Para realizar os testes rode o comando npm run test ou yarn test.
 
 
-##
-Feito com :purple_heart: por [Pablo Silva](https://github.com/pablolucio97).
+Feito com por [Pablo Silva ](https://www.typescriptlang.org/docs/)
